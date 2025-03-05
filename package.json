@@ -1,5 +1,5 @@
 {
-    "name": "@montagao/ass-measure",
+    "name": "ass-measure",
     "version": "1.0.0",
     "description": "Node.js native addon for measuring .ass subtitle dimensions",
     "main": "index.js",
