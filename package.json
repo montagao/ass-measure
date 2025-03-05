@@ -1,6 +1,6 @@
 {
     "name": "ass-measure",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Node.js native addon for measuring .ass subtitle dimensions",
     "main": "index.js",
     "dependencies": {
