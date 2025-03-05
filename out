@@ -1,0 +1,23 @@
+[
+  {
+    text: 'This is a test subtitle line 1',
+    width: 518,
+    height: 51,
+    startTime: 1000,
+    endTime: 5000
+  },
+  {
+    text: 'This is a test subtitle line 2 with some more text',
+    width: 922,
+    height: 51,
+    startTime: 6000,
+    endTime: 10000
+  },
+  {
+    text: 'This is a longer test subtitle line 3 with even more text to check dimensions',
+    width: 1434,
+    height: 52,
+    startTime: 11000,
+    endTime: 20000
+  }
+]

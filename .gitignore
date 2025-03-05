@@ -1,0 +1,30 @@
+# Node.js dependencies
+node_modules/
+
+# node-gyp build output
+build/
+
+# Intermediate/compiled object files and binaries
+*.o
+*.obj
+*.node
+*.log
+
+# Compiled examples and binaries
+/bin/
+/lib/
+/out/
+
+# MacOS system files
+.DS_Store
+
+# Linux system files
+*~
+*.swp
+
+# npm debug logs
+npm-debug.log*
+
+# Environment variables or sensitive files
+.env
+

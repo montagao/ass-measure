@@ -1,0 +1,21 @@
+{
+    "name": "@montagao/ass-measure",
+    "version": "1.0.0",
+    "description": "Node.js native addon for measuring .ass subtitle dimensions",
+    "main": "index.js",
+    "dependencies": {
+        "node-addon-api": "^7.0.0",
+        "node-gyp": "^10.0.1"
+    },
+    "scripts": {
+        "install": "node-gyp rebuild"
+    },
+    "gypfile": true,
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/yourusername/ass-measure.git"
+    }
+}
